@@ -20,3 +20,5 @@ Estou sempre em busca de novos desafios e oportunidades para crescer na área de
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquehenrio&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquehenrio&hide_progress=true)
+
