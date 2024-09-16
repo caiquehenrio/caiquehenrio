@@ -17,3 +17,6 @@ Sou um desenvolvedor júnior com experiência em desenvolvimento de RPA e na man
  - C# e VB.NET: Utilização das linguagens para desenvolver soluções personalizadas e eficazes.
 
 Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia, aplicando minhas habilidades para resolver problemas complexos e contribuir para soluções inovadoras. Vamos conectar!
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquehenrio&show_icons=true&theme=dracula)
