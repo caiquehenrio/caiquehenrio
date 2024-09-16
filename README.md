@@ -18,8 +18,7 @@ Sou um desenvolvedor júnior com experiência em desenvolvimento de RPA e na man
 
 Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia, aplicando minhas habilidades para resolver problemas complexos e contribuir para soluções inovadoras. Vamos conectar!
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquehenrio&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquehenrio&show_icons=true&theme=dracula&layout=compact)
-
-<img src="https://raw.githubusercontent.com/caiquehenrio/caiquehenrio/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiquehenrio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquehenrio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
