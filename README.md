@@ -6,7 +6,7 @@ Sou um desenvolvedor júnior com experiência em desenvolvimento de RPA e na man
 
  - UiPath: Desenvolvimento e implementação de bots para automação de tarefas repetitivas.
  - Automate Enterprise 11: Experiência na configuração e gestão de processos automatizados.
- - Automation Anywhere: Transformando processos manuais em robôs que otimizam atividades repetitivas.
+ - Automation Anywhere: Transformando processos manuais em robôs que otimizam atividades.
  - Python: Uso de Python para scripts e integração de soluções automatizadas.
 
 💻 Conhecimentos em Back-End/Web:
